@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: Class16_Opinion.pdf
-uid: 8b937723-ea48-4d5b-9fa5-4507f1225364
+uid: 423ebbfa-8988-484c-86ce-e95482563b02
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

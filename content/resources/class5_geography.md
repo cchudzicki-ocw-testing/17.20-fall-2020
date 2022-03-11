@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: Class5_Geography.pdf
-uid: 729aac4d-3f57-466c-a8a8-1dafe18d585a
+uid: 5a6d280f-3840-4ad9-9207-2ec81a6e6421
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

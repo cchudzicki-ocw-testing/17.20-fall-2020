@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: Class14_Federalism.pdf
-uid: cd070ca4-a458-4727-9820-32d0c2b048d4
+uid: 388fa940-8069-4971-8947-94b82ae702c3
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

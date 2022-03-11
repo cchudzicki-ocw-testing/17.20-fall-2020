@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: Class11_Bureaucracy.pdf
-uid: e4b4b036-65b0-424e-8ce2-7c7b50a739f2
+uid: 07ec3764-d754-40f1-8400-b6b4c0a2b7e9
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

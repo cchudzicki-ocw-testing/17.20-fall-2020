@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: Class3_Representation.pdf
-uid: c31d83d2-511a-4a32-b8f1-a1d968edf7ca
+uid: f8d982be-dbc1-41c4-9c47-a9a2c2f25ab8
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

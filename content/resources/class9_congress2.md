@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: Class9_Congress2.pdf
-uid: 0fc64eb7-030f-4779-9b8b-58c5930c346b
+uid: 8603657a-f255-4023-8264-029b8e20087a
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
