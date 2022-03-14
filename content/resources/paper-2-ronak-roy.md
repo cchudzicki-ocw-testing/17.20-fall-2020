@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: Paper 2 - Ronak Roy.pdf
-uid: b2983872-9677-4ece-9bed-1e3fe32a7674
+uid: 6f848f00-2d38-4096-89ae-2bfd902f4f4d
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

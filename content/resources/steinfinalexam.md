@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: SteinFinalExam.pdf
-uid: 88e0c860-6bc7-4fe3-b4e9-edd211f1199b
+uid: ceb403a9-2bc7-462a-9f71-51ba5c566263
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

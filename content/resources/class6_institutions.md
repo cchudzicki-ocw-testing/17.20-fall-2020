@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: Class6_Institutions.pdf
-uid: 9155b9f7-5251-4bab-b86d-94185ab48a63
+uid: 09220065-6aee-4440-b6cf-c79389f5491f
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

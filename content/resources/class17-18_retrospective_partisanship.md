@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: Class17-18_Retrospective_Partisanship.pdf
-uid: 3a1f13dd-6cad-4f13-a29b-c7bf2dad1f47
+uid: ea56cf48-6200-4014-b77f-39fd9238a270
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: Class10_Presidency.pdf
-uid: c5b9aab9-176c-4dbe-9239-a93e44a1caa5
+uid: 0497571d-fe2a-4cb1-8516-b9521e4ccab8
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
