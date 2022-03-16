@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: syllabus.pdf
-uid: bac24264-fac9-48f0-afcb-62361b3de801
+uid: 3f21c4a1-b1ec-4b1b-9582-bffb63394409
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

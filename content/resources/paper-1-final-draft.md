@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 'Paper #1 Final Draft.pdf'
-uid: 88de4e05-77ae-4305-8270-a9a2eb92d4cf
+uid: 582702d9-8c96-4f75-ace5-b353260435e2
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: Class13_Parties.pdf
-uid: acf6fdf7-3631-43df-8a75-f9f5e5303944
+uid: 3728aeb2-9155-4d82-a99a-4f4bfb090fe0
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

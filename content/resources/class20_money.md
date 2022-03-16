@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: Class20_Money.pdf
-uid: 82500655-f2ca-40b5-9467-043e2b145eac
+uid: 3c363f67-c582-4be2-87e4-85126b5d18c7
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

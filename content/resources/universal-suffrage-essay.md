@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: Universal Suffrage Essay.pdf
-uid: c4264e54-d6c2-413a-9ead-488d78d1e6ed
+uid: bc0930a1-d5ba-4cd3-b849-ece78e652949
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

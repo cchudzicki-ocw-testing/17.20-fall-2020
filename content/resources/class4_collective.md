@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: Class4_Collective.pdf
-uid: 3003bfeb-19c2-4c18-afc6-e26574082734
+uid: ed4d7e27-9f6d-4a15-8a65-73d6809b35d6
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

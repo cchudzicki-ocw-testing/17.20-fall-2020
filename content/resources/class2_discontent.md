@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: Class2_Discontent.pdf
-uid: 3e3af0fd-7aae-49b7-baef-adeb0405e65d
+uid: 42b1f41f-af63-4998-b7a1-90f17116697b
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

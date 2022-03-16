@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: Class8_Congress1.pdf
-uid: 8d70c0d7-6a7f-4e61-9d72-f43ae4831252
+uid: d4fa9df5-f0e8-4204-8c34-9b900080f356
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

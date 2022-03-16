@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: Class21_Gender.pdf
-uid: aacdd125-059c-4ae1-a4a4-65d8f439c5da
+uid: 6fa02bdb-7637-4973-900a-9bb0f89e7d9d
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
