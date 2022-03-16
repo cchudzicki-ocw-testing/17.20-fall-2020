@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: Class23-24_Racial.pdf
-uid: bdee6f06-828a-4f69-a01d-df897d755026
+uid: 46e9811a-45b5-4bc0-a453-3658a8d550b3
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

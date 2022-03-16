@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: Class19_Polarization.pdf
-uid: 3ac7cda2-1711-4886-a036-6990cdf90320
+uid: 09ba5419-3b70-4fc4-8da5-ffa0a307d7fc
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: Class15_Rational.pdf
-uid: 9e9fe910-058a-457d-af5a-90f0d6bfe21a
+uid: 3f70ccfd-75fb-4d8f-84fd-534006544637
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

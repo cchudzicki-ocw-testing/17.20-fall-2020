@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: Class12_Judiciary.pdf
-uid: f6322778-4528-42d9-8ed1-a4b290c1f185
+uid: 5c93360a-ea35-4973-b323-69f31e334ad5
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
