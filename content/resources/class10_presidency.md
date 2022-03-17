@@ -1,7 +1,6 @@
 ---
 content_type: resource
 description: ''
-draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/17-20-introduction-to-the-american-political-process-fall-2020/class10_presidency.pdf
 file_type: application/pdf
 image_metadata:
@@ -12,7 +11,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: Class10_Presidency.pdf
-uid: 915623b3-e6d4-48f9-8c69-b48693654a8e
+uid: c233a193-cb41-4b3d-b261-f32f8a06997b
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

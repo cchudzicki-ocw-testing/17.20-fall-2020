@@ -3,7 +3,6 @@ content_type: page
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
-parent_uid: null
 title: Assignments
 uid: 146ed505-5b84-2884-3642-9903d597ffce
 ---
@@ -13,22 +12,22 @@ Paper 1
 
 This paper should be 1,000–1,500 words / 4–6 pages. The first draft is due during lecture 9 and is worth 5% of the course grade. The final draft is due during lecture 17 and is worth 20% of the course grade. 
 
-For more information, see {{% resource_link fdea42ac-b2d0-bc00-48a0-55e8d0b47850 "Paper 1 (PDF)" %}}.
+For more information, see {{< resource_link fdea42ac-b2d0-bc00-48a0-55e8d0b47850 "Paper 1 (PDF)" >}}.
 
 ### Student Example
 
-{{% resource_link 7170e666-8fd3-282c-b6b7-1510d40ee958 "Paper 1 example (PDF)" %}} (Courtesy of MIT student.)
+{{< resource_link 7170e666-8fd3-282c-b6b7-1510d40ee958 "Paper 1 example (PDF)" >}} (Courtesy of MIT student.)
 
 Paper 2
 -------
 
 This paper should be 1,000–1,500 words / 4–6 pages. The first draft is due for peer review during lecture 20.  The final draft is due (along with peer review comments) during lecture 24 and is worth 25% of the course grade.
 
-For more information, see {{% resource_link 8a02522d-693c-43f6-00e5-93cced652e12 "Paper 2 (PDF)" %}}.
+For more information, see {{< resource_link 8a02522d-693c-43f6-00e5-93cced652e12 "Paper 2 (PDF)" >}}.
 
 ### Student Example
 
-{{% resource_link 7d9a74c5-9a2d-e9bd-90bb-6b7a5183e3e1 "“Dysfunction in Congress: Symptoms, Causes and Solutions.” (PDF)" %}} (Courtesy of Ronak Roy.)
+{{< resource_link 7d9a74c5-9a2d-e9bd-90bb-6b7a5183e3e1 "“Dysfunction in Congress: Symptoms, Causes and Solutions.” (PDF)" >}} (Courtesy of Ronak Roy.)
 
 Reading Responses
 -----------------

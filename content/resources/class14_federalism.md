@@ -1,7 +1,6 @@
 ---
 content_type: resource
 description: ''
-draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/17-20-introduction-to-the-american-political-process-fall-2020/class14_federalism.pdf
 file_type: application/pdf
 image_metadata:
@@ -12,7 +11,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: Class14_Federalism.pdf
-uid: 6bb4d7fb-86f3-4514-a546-d45cd6a32ea5
+uid: 13481d8d-f50a-4a93-a57f-855529b9bbe9
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

@@ -1,7 +1,6 @@
 ---
 content_type: resource
 description: ''
-draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/17-20-introduction-to-the-american-political-process-fall-2020/paper-1-final-draft.pdf
 file_type: application/pdf
 image_metadata:
@@ -12,7 +11,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 'Paper #1 Final Draft.pdf'
-uid: bff0aa5c-9799-4eb1-b876-d034ab94581a
+uid: 8f894091-7335-4b95-9d09-0b24c17d669c
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

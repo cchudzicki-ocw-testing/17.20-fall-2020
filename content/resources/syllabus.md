@@ -1,7 +1,6 @@
 ---
 content_type: resource
 description: ''
-draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/17-20-introduction-to-the-american-political-process-fall-2020/syllabus.pdf
 file_type: application/pdf
 image_metadata:
@@ -12,7 +11,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: syllabus.pdf
-uid: 8f49e82e-9bfc-4f01-beb8-8c86e7a41b8c
+uid: e3f47204-5b06-44af-8b79-1852b501430a
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

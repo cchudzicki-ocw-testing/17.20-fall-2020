@@ -1,7 +1,6 @@
 ---
 content_type: resource
 description: ''
-draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/17-20-introduction-to-the-american-political-process-fall-2020/class16_opinion.pdf
 file_type: application/pdf
 image_metadata:
@@ -12,7 +11,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: Class16_Opinion.pdf
-uid: 41c854d1-692e-4da1-a1c5-9e79332e2de6
+uid: 95fb219e-1fc5-4268-8878-f24b8cc789cd
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

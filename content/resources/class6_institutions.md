@@ -1,7 +1,6 @@
 ---
 content_type: resource
 description: ''
-draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/17-20-introduction-to-the-american-political-process-fall-2020/class6_institutions.pdf
 file_type: application/pdf
 image_metadata:
@@ -12,7 +11,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: Class6_Institutions.pdf
-uid: 24cbc333-c263-4175-ac00-893d373d9d02
+uid: 262977c2-e511-4b93-9e66-478ef0f3305c
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

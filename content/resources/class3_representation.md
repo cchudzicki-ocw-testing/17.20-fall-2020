@@ -1,7 +1,6 @@
 ---
 content_type: resource
 description: ''
-draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/17-20-introduction-to-the-american-political-process-fall-2020/class3_representation.pdf
 file_type: application/pdf
 image_metadata:
@@ -12,7 +11,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: Class3_Representation.pdf
-uid: f39f25ce-9360-4d0e-9c36-824b4d283a49
+uid: 363b7a36-06dd-460e-8a09-f7cfaac633ca
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

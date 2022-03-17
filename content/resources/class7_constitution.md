@@ -1,7 +1,6 @@
 ---
 content_type: resource
 description: ''
-draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/17-20-introduction-to-the-american-political-process-fall-2020/class7_constitution.pdf
 file_type: application/pdf
 image_metadata:
@@ -12,7 +11,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: Class7_Constitution.pdf
-uid: fb827e57-3dac-4747-ac5e-34e456afc7f0
+uid: 460ccdc3-4858-4a78-b6d0-5941a75e1648
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

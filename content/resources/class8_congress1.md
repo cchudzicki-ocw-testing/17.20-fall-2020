@@ -1,7 +1,6 @@
 ---
 content_type: resource
 description: ''
-draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/17-20-introduction-to-the-american-political-process-fall-2020/class8_congress1.pdf
 file_type: application/pdf
 image_metadata:
@@ -12,7 +11,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: Class8_Congress1.pdf
-uid: 35ad7cb6-7fb9-42dc-8fa8-6a1bc6255df6
+uid: 28513deb-7374-4390-b535-856eb0635dcd
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

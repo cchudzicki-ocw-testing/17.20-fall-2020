@@ -1,7 +1,6 @@
 ---
 content_type: resource
 description: ''
-draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/17-20-introduction-to-the-american-political-process-fall-2020/class23-24_racial.pdf
 file_type: application/pdf
 image_metadata:
@@ -12,7 +11,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: Class23-24_Racial.pdf
-uid: 46e9811a-45b5-4bc0-a453-3658a8d550b3
+uid: 40a97686-f7ff-4084-9f56-0f4a606db170
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

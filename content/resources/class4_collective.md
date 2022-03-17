@@ -1,7 +1,6 @@
 ---
 content_type: resource
 description: ''
-draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/17-20-introduction-to-the-american-political-process-fall-2020/class4_collective.pdf
 file_type: application/pdf
 image_metadata:
@@ -12,7 +11,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: Class4_Collective.pdf
-uid: a388c282-c136-43e6-8bd4-0ff407cf978d
+uid: 9dbfc4a6-6d97-4f44-ad04-e186f6f63fb7
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

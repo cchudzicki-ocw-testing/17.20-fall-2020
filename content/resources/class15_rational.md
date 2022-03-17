@@ -1,7 +1,6 @@
 ---
 content_type: resource
 description: ''
-draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/17-20-introduction-to-the-american-political-process-fall-2020/class15_rational.pdf
 file_type: application/pdf
 image_metadata:
@@ -12,7 +11,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: Class15_Rational.pdf
-uid: 3f70ccfd-75fb-4d8f-84fd-534006544637
+uid: 0724a26e-2fc2-41d8-b1cc-9e69dd06766f
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
