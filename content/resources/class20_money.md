@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/17-20-introduction-to-the-american-political-process-fall-2020/class20_money.pdf
 file_type: application/pdf
 image_metadata:
@@ -11,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: Class20_Money.pdf
-uid: 9cb21b0c-0012-4197-821c-5839a3e76608
+uid: 55827639-43cf-41eb-9af5-2736a0a48a46
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

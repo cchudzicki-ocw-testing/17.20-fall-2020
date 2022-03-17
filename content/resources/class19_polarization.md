@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/17-20-introduction-to-the-american-political-process-fall-2020/class19_polarization.pdf
 file_type: application/pdf
 image_metadata:
@@ -11,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: Class19_Polarization.pdf
-uid: 1c02792b-d08a-4261-8e33-a30850a318cb
+uid: 5f2174cb-845c-4d89-9ed3-b9c3279d7a83
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/17-20-introduction-to-the-american-political-process-fall-2020/class21_gender.pdf
 file_type: application/pdf
 image_metadata:
@@ -11,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: Class21_Gender.pdf
-uid: e72452a0-d58e-41e8-b862-4b0708cf5206
+uid: ee6bc418-8be6-4750-aa45-2d7233ee0d2c
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

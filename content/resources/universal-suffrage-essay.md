@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/17-20-introduction-to-the-american-political-process-fall-2020/universal-suffrage-essay.pdf
 file_type: application/pdf
 image_metadata:
@@ -11,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: Universal Suffrage Essay.pdf
-uid: f58491b8-2688-4836-a041-6079795f5fa7
+uid: 8ad2d738-fc95-40a6-8144-4ce4e72497a1
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
